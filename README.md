@@ -4,6 +4,7 @@
 Ce projet implémente une stratégie de trading basée sur les moyennes mobiles (SMA) pour les actions du S&P 500. Il utilise des bibliothèques Python telles que pandas, yfinance, statsmodels, et matplotlib pour récupérer les données boursières, calculer les moyennes mobiles, générer des signaux d'achat et de vente, et visualiser les résultats.
 
 ### Prérequis
+
 Assurez-vous d'avoir Python installé sur votre système. Vous aurez également besoin des bibliothèques suivantes :
 - pandas
 - pandas_datareader
